@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Exonymos</h1>
 <h3 align="center">An alien from planet Kepler-482b learning about humans</h3>
-<br>
+
 - 🔭 I’m currently working on [My Personal Website](https://exonymos.github.io/) and [GYM Website](https://exonymos.github.io/MuscleMansion.github.io/)
 
 - 🌱 I’m currently learning **Web Development**
 
 - ⚡ Fun fact **You are reading this**
-<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/exonymos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="exonymos" height="30" width="40" /></a>

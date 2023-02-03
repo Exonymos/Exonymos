@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Exonymos</h1>
 <h3 align="center">An alien from planet Kepler-482b learning about humans</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<br>
 
-- 🔭 I’m currently working on [My Personal Website](https://exonymos.github.io/) and [GYM Website](https://exonymos.github.io/MuscleMansion.github.io/)
+- 🔭 I’m currently working on **[My Website](https://exonymos.github.io/)** and **[GYM Website](https://exonymos.github.io/MuscleMansion.github.io/)**
 
 - 🌱 I’m currently learning **Web Development**
 
+- 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/Exonymos)**
+
+- 💬 Ask me about **HTMl & CSS**
+
+- 📫 Reach me through **[Email](mailto:joybarot720@gmail.com)** or on **[Steam](https://steamcommunity.com/id/exonymos/)** <em>(we might as well play some games)</em>
+
 - ⚡ Fun fact **You are reading this**
 
-<BR><BR>BR><h3 align="center">Connect with me:</h3>
+<br><br><br>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/exonymos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="exonymos" height="30" width="40" /></a>
 <a href="https://twitter.com/joybarot2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joybarot2" height="30" width="40" /></a>
@@ -22,9 +30,9 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=exonymos&label=Profile%20views&color=0191fa&style=flat" alt="exonymos" /> </p><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exonymos&show_icons=true&theme=dracula&title_color=0191fa&text_color=00d9ff&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="exonymos" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exonymos&show_icons=true&theme=dracula&title_color=0191fa&text_color=00d9ff&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="exonymos" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exonymos&show_icons=true&theme=dracula&title_color=0191fa&text_color=00d9ff&bg_color=ffffff&hide_border=true&locale=en" alt="exonymos" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exonymos&show_icons=true&theme=dracula&title_color=0191fa&text_color=00d9ff&bg_color=ffffff&hide_border=true&locale=en" alt="exonymos" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exonymos&theme=default" alt="exonymos" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exonymos&theme=default" alt="exonymos" /></p>
 

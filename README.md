@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Exonymos</h1>
 <h3 align="center">An alien from planet Kepler-482b learning about humans</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🔭 I’m currently working on [My Personal Website](https://exonymos.github.io/) and [GYM Website](https://exonymos.github.io/MuscleMansion.github.io/)
 

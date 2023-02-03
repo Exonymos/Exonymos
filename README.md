@@ -3,11 +3,13 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=exonymos&label=Profile%20views&color=0e75b6&style=flat" alt="exonymos" /> </p>
 <br>
+<h4>
 - 🔭 I’m currently working on [My Website](exonymos.github.io)
 
 - 🌱 I’m currently learning **Web Development**
 
 - ⚡ Fun fact **You are reading this**
+</h4>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">

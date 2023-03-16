@@ -36,4 +36,3 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exonymos&theme=transparent&hide_border=true" alt="exonymos" /></p>
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Exonymos)](https://github.com/ashutosh00710/github-readme-activity-graph)

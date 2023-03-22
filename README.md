@@ -34,5 +34,5 @@
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exonymos&show_icons=true&theme=transparent&title_color=ffc300&text_color=ffc300&hide_border=true&locale=en" alt="exonymos" /></p>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Exonymos&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exonymos&theme=transparent&hide_border=true" alt="exonymos" /></p>
 <br>

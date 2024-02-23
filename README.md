@@ -1,6 +1,6 @@
 ![Header](github-header-image.png)
 <br>
-<br><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<br><img align="right" alt="Coding" width="400" height="350" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <br>
 
 - 🔭 I’m currently working on **[My Projects](https://exonymos.github.io/Projects/)**
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTMl & CSS**
 
-- 📫 Reach me through **[Email](mailto:joybarot720@gmail.com)** or on **[Steam](https://steamcommunity.com/id/exonymos/)** <em>(we might as well play some games)</em>
+- 📫 Reach me through **[Email](mailto:joybarot720@gmail.com)**
 
 - ⚡ Fun fact **You are reading this**
 
@@ -20,8 +20,6 @@
 <p align="center">
 <a href="https://codepen.io/exonymos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="exonymos" height="30" width="40" /></a>
 <a href="https://twitter.com/joybarot2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joybarot2" height="30" width="40" /></a>
-<a href="https://fb.com/joy.barot.507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joy.barot.507" height="30" width="40" /></a>
-<a href="https://instagram.com/exonymosx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exonymosx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@exonymos1552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@exonymos1552" height="30" width="40" /></a>
 </p>
 <br>

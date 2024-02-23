@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **You are reading this**
 
-<br><br><br>
+<br><br><br><br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/exonymos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="exonymos" height="30" width="40" /></a>

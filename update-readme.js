@@ -18,8 +18,9 @@ https.get(options, (res) => {
   res.on('end', () => {
     const repos = JSON.parse(data);
     let projectsMarkdown = '';
+    const excludedRepos = ['Exonymos']; // repos to exclude from the list
     repos.forEach(repo => {
-      projectsMarkdown += `### [${repo.name}](${repo.html_url})\n`;
+      projectsMarkdown += `### 🌟 [${repo.name}](${repo.html_url})\n`;
       projectsMarkdown += `- 🔗 **[GitHub Repo](${repo.html_url})** - ${repo.description || 'No description provided'}\n\n`;
     });
     

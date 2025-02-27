@@ -37,23 +37,23 @@
 ---
 
 ## 🏆 Featured Projects
-### 🌟 [Tea-Themed Website](https://your-project-link) 
-- 🍵 A beautifully crafted tea-themed website.
-- 🔗 **[GitHub Repo](https://your-github-repo)** | 🖥 **[Live Demo](https://your-project-url)**
+### 🎰 [Gacha Level Calculator](https://nograsscalc.vercel.app/)
+- 🎮 Calculate experience needed and estimated time to reach a certain level in a gacha game.
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects/tree/5b294aa748793f777db8e4609aeea0492650ac2a/Gacha-Level-Calculator)** | 📰 **[Blog](https://exonymos.me/projects/gacha-level-calculator)** | **[Live Demo](https://nograsscalc.vercel.app/)**
 
-### 🎯 [Connect 4 Game](https://your-project-link)
-- 🔵🔴 A web-based version of the classic **Connect 4** game in React.
-- 🔗 **[GitHub Repo](https://your-github-repo)** | 🎮 **[Live Demo](https://your-project-url)**
+### 🌟 [Tea Addicts](https://exonymos.github.io/Projects/Tea-Addicts/) 
+- 🍵 A fun web app that counts the total number of sips of tea taken by users globally.
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects/tree/77ccc56a62eac9a9fd4b89ba82459e6839acd4d3/Tea-Addicts)** | 📰 **[Blog](https://exonymos.me/projects/tea-addicts)** | 🎮 **[Live Demo](https://exonymos.github.io/Projects/Tea-Addicts/)**
 
-### 📟 [QR Code Generator](https://your-project-link)
-- 🔳 A tool to generate QR codes for URLs, text, and more.
-- 🔗 **[GitHub Repo](https://your-github-repo)** | ⚡ **[Live Demo](https://your-project-url)**
+### 🎯 [Quiz Game](https://exonymos.github.io/Projects/Quiz-Game/)
+- 🔵🔴 Test your knowledge with a fun and interactive quiz game on various topics.
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects/tree/77ccc56a62eac9a9fd4b89ba82459e6839acd4d3/Quiz-Game)** | 📰 **[Blog](https://exonymos.me/projects/quiz-game)** | 🎮 **[Live Demo](https://exonymos.github.io/Projects/Quiz-Game/)**
 
 ---
 
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
-<!-- Your dynamic blog posts will be auto-inserted here by GitHub Actions -->
+<!-- Latest Projects will be updated here -->
 <!-- LATEST_PROJECTS:END -->
 
 ---

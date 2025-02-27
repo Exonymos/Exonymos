@@ -41,12 +41,12 @@
 - 🎮 Calculate experience needed and estimated time to reach a certain level in a gacha game.
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects/tree/5b294aa748793f777db8e4609aeea0492650ac2a/Gacha-Level-Calculator)** | 📰 **[Blog](https://exonymos.me/projects/gacha-level-calculator)** | **[Live Demo](https://nograsscalc.vercel.app/)**
 
-### 🌟 [Tea Addicts](https://exonymos.github.io/Projects/Tea-Addicts/) 
+### ☕ [Tea Addicts](https://exonymos.github.io/Projects/Tea-Addicts/) 
 - 🍵 A fun web app that counts the total number of sips of tea taken by users globally.
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects/tree/77ccc56a62eac9a9fd4b89ba82459e6839acd4d3/Tea-Addicts)** | 📰 **[Blog](https://exonymos.me/projects/tea-addicts)** | 🎮 **[Live Demo](https://exonymos.github.io/Projects/Tea-Addicts/)**
 
-### 🎯 [Quiz Game](https://exonymos.github.io/Projects/Quiz-Game/)
-- 🔵🔴 Test your knowledge with a fun and interactive quiz game on various topics.
+### ❓ [Quiz Game](https://exonymos.github.io/Projects/Quiz-Game/)
+- 🧠 Test your knowledge with a fun and interactive quiz game on various topics.
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects/tree/77ccc56a62eac9a9fd4b89ba82459e6839acd4d3/Quiz-Game)** | 📰 **[Blog](https://exonymos.me/projects/quiz-game)** | 🎮 **[Live Demo](https://exonymos.github.io/Projects/Quiz-Game/)**
 
 ---

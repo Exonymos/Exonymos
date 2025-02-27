@@ -59,6 +59,9 @@
 ### 🌟 [Projects](https://github.com/Exonymos/Projects)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects)** - Repo for testing and practicing 
 
+### 🌟 [exonymos.github.io](https://github.com/Exonymos/exonymos.github.io)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.github.io)** - No description provided
+
 <!-- LATEST_PROJECTS:END -->
 
 ---

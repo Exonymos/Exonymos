@@ -1,4 +1,4 @@
-![Header](github-header-image.png)
+![Header](Github%20header.png)
 <br>
 <br><img align="right" alt="Coding" width="400" height="350" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <br>

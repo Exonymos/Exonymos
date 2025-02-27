@@ -2,7 +2,7 @@ const fs = require("fs");
 const https = require("https");
 
 const username = process.env.USERNAME;
-const excludedRepos = ["Exonymos", "repo1", "repo2", "repo5"]; // Repos to exclude
+const excludedRepos = ["Exonymos"]; // Repos to exclude
 
 const options = {
   hostname: "api.github.com",
@@ -33,15 +33,17 @@ function fetchRepos(callback) {
 
 function generateMarkdown(repos) {
   let projectsMarkdown = "";
-  repos.forEach((repo) => {
-    if (excludedRepos.includes(repo.name)) {
-      return;
-    }
+  const filteredRepos = repos
+    .filter((repo) => !excludedRepos.includes(repo.name))
+    .slice(0, 3);
+
+  filteredRepos.forEach((repo) => {
     projectsMarkdown += `### 🌟 [${repo.name}](${repo.html_url})\n`;
     projectsMarkdown += `- 🔗 **[GitHub Repo](${repo.html_url})** - ${
       repo.description || "No description provided"
     }\n\n`;
   });
+
   return projectsMarkdown;
 }
 

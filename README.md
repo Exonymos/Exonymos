@@ -39,7 +39,7 @@
 ## 🏆 Featured Projects
 ### 🎰 [Gacha Level Calculator](https://nograsscalc.vercel.app/)
 - 🎮 Calculate experience needed and estimated time to reach a certain level in a gacha game.
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects/tree/5b294aa748793f777db8e4609aeea0492650ac2a/Gacha-Level-Calculator)** | 📰 **[Blog](https://exonymos.me/projects/gacha-level-calculator)** | **[Live Demo](https://nograsscalc.vercel.app/)**
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects/tree/5b294aa748793f777db8e4609aeea0492650ac2a/Gacha-Level-Calculator)** | 📰 **[Blog](https://exonymos.me/projects/gacha-level-calculator)** | 🎮 **[Live Demo](https://nograsscalc.vercel.app/)**
 
 ### ☕ [Tea Addicts](https://exonymos.github.io/Projects/Tea-Addicts/) 
 - 🍵 A fun web app that counts the total number of sips of tea taken by users globally.

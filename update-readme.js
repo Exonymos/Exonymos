@@ -6,7 +6,7 @@ const excludedRepos = ["Exonymos"]; // Repos to exclude
 
 const options = {
   hostname: "api.github.com",
-  path: `/users/${username}/repos?sort=updated&per_page=3`,
+  path: `/users/${username}/repos?sort=updated&per_page=10`,
   method: "GET",
   headers: {
     "User-Agent": username,

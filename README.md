@@ -53,9 +53,6 @@
 
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
-### 🌟 [Exonymos](https://github.com/Exonymos/Exonymos)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/Exonymos)** - No description provided
-
 ### 🌟 [exonymos.me](https://github.com/Exonymos/exonymos.me)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.me)** - My Portfolio
 

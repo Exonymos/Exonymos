@@ -35,14 +35,28 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Github Stats Dark -->
-  <img src="https://github-readme-stats.vercel.app/api?username=exonymos&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github#gh-dark-mode-only" width="49%" />
-  <!-- Github Stats Light -->
-  <img src="https://github-readme-stats.vercel.app/api?username=exonymos&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github#gh-light-mode-only" width="49%" />
-  <!-- Top Languages Dark -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exonymos&hide_progress=true&theme=github_dark&hide_border=true&#gh-dark-mode-only" width="49%" alt="Top Languages" />
-  <!-- Top Languages Light -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exonymos&hide_progress=true&theme=default&hide_border=true&#gh-light-mode-only" width="49%" alt="Top Languages" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=exonymos&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=exonymos&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=exonymos&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github" width="49%" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=exonymos&hide_progress=true&theme=github_dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=exonymos&hide_progress=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exonymos&hide_progress=true&theme=default&hide_border=true" width="49%" alt="Top Languages" />
+  </picture>
 </p>
 
 ---

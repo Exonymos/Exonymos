@@ -53,7 +53,6 @@
 
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
-<!-- Latest Projects will be updated here -->
 <!-- LATEST_PROJECTS:END -->
 
 ---

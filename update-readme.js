@@ -19,7 +19,8 @@ https.get(options, (res) => {
     const repos = JSON.parse(data);
     let projectsMarkdown = '';
     repos.forEach(repo => {
-      projectsMarkdown += `- [${repo.name}](${repo.html_url}) - ${repo.description || 'No description provided'}\n`;
+      projectsMarkdown += `### [${repo.name}](${repo.html_url})\n`;
+      projectsMarkdown += `- 🔗 **[GitHub Repo](${repo.html_url})** - ${repo.description || 'No description provided'}\n\n`;
     });
     
     const readmePath = './README.md';

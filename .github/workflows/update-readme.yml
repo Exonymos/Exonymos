@@ -27,9 +27,12 @@ jobs:
         run: node update-readme.js
 
       - name: Commit Changes
+        env:
+          PAT: ${{ secrets.PAT }}
         run: |
           git config --global user.email "joybarot720@gmail.com"
           git config --global user.name "Exonymos"
           git add README.md
           git commit -m "Update README with latest repos" || echo "No changes to commit"
+          git remote set-url origin https://$PAT@github.com/Exonymos/Exonymos.git
           git push

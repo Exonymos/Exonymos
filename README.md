@@ -1,4 +1,4 @@
-![Header](Github%20header.png)
+![Header](github-header.png)
 
 <h1 align="center">Hi, I'm Joy Barot (Exonymos) 👋</h1>
 <h3 align="center">Web Developer | Open-Source Enthusiast | Tech Explorer</h3>
@@ -111,3 +111,5 @@
 ---
 
 Feel free to reach out for collaborations or opportunities. Thanks for stopping by!
+
+![Footer](github-footer.png)

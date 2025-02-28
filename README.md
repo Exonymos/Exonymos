@@ -89,8 +89,8 @@
 ### 🌟 [Projects](https://github.com/Exonymos/Projects)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects)** - A collection of my various projects, ranging from web applications to games and utilities.
 
-### 🌟 [exonymos.github.io](https://github.com/Exonymos/exonymos.github.io)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.github.io)** - Old personal site made for fun
+### 🌟 [MuscleMansion](https://github.com/Exonymos/MuscleMansion)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/MuscleMansion)** - No description provided
 
 <!-- LATEST_PROJECTS:END -->
 

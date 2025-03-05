@@ -83,14 +83,14 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
-### 🌟 [Projects](https://github.com/Exonymos/Projects)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/Projects)** - A collection of my various projects, ranging from web applications to games and utilities.
+### 🌟 [blog-exonymos](https://github.com/Exonymos/blog-exonymos)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/blog-exonymos)** - No description provided
+
+### 🌟 [projects](https://github.com/Exonymos/projects)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** - A collection of my various projects, ranging from web applications to games and utilities.
 
 ### 🌟 [exonymos.github.io](https://github.com/Exonymos/exonymos.github.io)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.github.io)** - Personal blog website powered by Jekyll and hosted on GitHub Pages.
-
-### 🌟 [Personal-site-old](https://github.com/Exonymos/Personal-site-old)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/Personal-site-old)** - Old personal site made for fun
 
 <!-- LATEST_PROJECTS:END -->
 

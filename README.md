@@ -83,14 +83,14 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
-### 🌟 [exonymos.github.io](https://github.com/Exonymos/exonymos.github.io)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.github.io)** - Personal blog website powered by Jekyll and hosted on GitHub Pages.
-
-### 🌟 [OpenSpeak](https://github.com/Exonymos/OpenSpeak)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/OpenSpeak)** - This is a Python program that can talk to you! It uses the GPT-3 technology to generate responses to your questions. You can ask it anything you want, and it will try to give you a good answer.
-
 ### 🌟 [blog-exonymos](https://github.com/Exonymos/blog-exonymos)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/blog-exonymos)** - No description provided
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/blog-exonymos)** - Personal blog website powered by Jekyll and hosted on GitHub Pages.
+
+### 🌟 [exonymos.github.io](https://github.com/Exonymos/exonymos.github.io)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.github.io)** - Personal minimal home site powered by Hugo and hosted on GitHub Pages.
+
+### 🌟 [krabby-discord-bot](https://github.com/Exonymos/krabby-discord-bot)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/krabby-discord-bot)** - Krabby-kun, is a bot that is designed to be a fun and interactive.
 
 <!-- LATEST_PROJECTS:END -->
 

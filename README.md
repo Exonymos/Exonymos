@@ -83,14 +83,14 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
-### 🌟 [blog-exonymos](https://github.com/Exonymos/blog-exonymos)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/blog-exonymos)** - Personal blog website powered by Jekyll and hosted on GitHub Pages.
-
-### 🌟 [exonymos.github.io](https://github.com/Exonymos/exonymos.github.io)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.github.io)** - Personal minimal home site powered by Hugo and hosted on GitHub Pages.
+### 🌟 [projects](https://github.com/Exonymos/projects)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** - A collection of my various projects, ranging from web applications to games and utilities.
 
 ### 🌟 [krabby-discord-bot](https://github.com/Exonymos/krabby-discord-bot)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/krabby-discord-bot)** - Krabby-kun, is a bot that is designed to be a fun and interactive.
+
+### 🌟 [exonymos.github.io](https://github.com/Exonymos/exonymos.github.io)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.github.io)** - Personal minimal home site powered by Hugo and hosted on GitHub Pages.
 
 <!-- LATEST_PROJECTS:END -->
 

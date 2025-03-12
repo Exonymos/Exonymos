@@ -26,8 +26,19 @@
 
 ## ⚡ Tech Stack
 
+### Programming Languages & Markup
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,firebase,git,github,linux,vscode,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,html,css,php,python,bash&theme=dark&perline=10" alt="Languages & Markup" />
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,expressjs,flask,flutter,nextjs,nodejs,react,jquery,sass,tailwindcss&theme=dark&perline=10" alt="Frameworks & Libraries" />
+</p>
+
+### Tools, Platforms, Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=babel,git,github,firebase,mongodb,mysql,npm,pnpm,vscode,vercel&theme=dark&perline=10" alt="Tools, Platforms & Databases" />
 </p>
 
 ---

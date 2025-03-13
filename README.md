@@ -94,14 +94,14 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
+### 🌟 [mad-libs-game](https://github.com/Exonymos/mad-libs-game)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/mad-libs-game)** - A friendly, colorful console-based Mad Libs Game that lets you create hilarious stories with dynamic templates.
+
 ### 🌟 [projects](https://github.com/Exonymos/projects)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** - A collection of my various projects, ranging from web applications to games and utilities.
 
 ### 🌟 [krabby-discord-bot](https://github.com/Exonymos/krabby-discord-bot)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/krabby-discord-bot)** - Krabby-kun, is a bot that is designed to be a fun and interactive.
-
-### 🌟 [exonymos.github.io](https://github.com/Exonymos/exonymos.github.io)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.github.io)** - Personal minimal home site powered by Hugo and hosted on GitHub Pages.
 
 <!-- LATEST_PROJECTS:END -->
 

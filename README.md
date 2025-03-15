@@ -94,14 +94,14 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
-### 🌟 [projects](https://github.com/Exonymos/projects)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** - A collection of my various projects, ranging from web applications to games and utilities.
-
-### 🌟 [exonymos.me](https://github.com/Exonymos/exonymos.me)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.me)** - A personal website where I share my projects and learnings.
-
 ### 🌟 [snake-game-adventure](https://github.com/Exonymos/snake-game-adventure)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/snake-game-adventure)** - A modern, console-based Snake game that combines classic arcade gameplay with modern features like asynchronous game logic, dynamic menus, audio integration, high score tracking, and achievements.
+
+### 🌟 [mad-libs-game](https://github.com/Exonymos/mad-libs-game)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/mad-libs-game)** - A friendly, colorful console-based Mad Libs Game that lets you create hilarious stories with dynamic templates.
+
+### 🌟 [projects](https://github.com/Exonymos/projects)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** - A collection of my various projects, ranging from web applications to games and utilities.
 
 <!-- LATEST_PROJECTS:END -->
 

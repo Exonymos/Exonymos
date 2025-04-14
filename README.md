@@ -94,14 +94,14 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
+### 🌟 [Programs](https://github.com/Exonymos/Programs)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/Programs)** - All my programs including C, Python, C++, etc.
+
 ### 🌟 [utiliverse](https://github.com/Exonymos/utiliverse)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/utiliverse)** - UtiliVerse is your one-stop website that brings together a variety of easy-to-use tools for everyday tasks.
 
 ### 🌟 [github-issue-templates](https://github.com/Exonymos/github-issue-templates)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/github-issue-templates)** - 🔣 A collection of GitHub issue, pull request and security templates
-
-### 🌟 [snake-game-adventure](https://github.com/Exonymos/snake-game-adventure)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/snake-game-adventure)** - A modern, console-based Snake game that combines classic arcade gameplay with modern features like asynchronous game logic, dynamic menus, audio integration, high score tracking, and achievements.
 
 <!-- LATEST_PROJECTS:END -->
 

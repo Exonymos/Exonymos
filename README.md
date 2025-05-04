@@ -95,7 +95,7 @@
 
 <!-- LATEST_PROJECTS:START -->
 ### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - No description provided
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - Track your shows and movies with ease and locally!
 
 ### 🌟 [Programs](https://github.com/Exonymos/Programs)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/Programs)** - All my programs including C, Python, C++, etc.

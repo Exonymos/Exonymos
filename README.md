@@ -94,11 +94,11 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
-### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - Track your shows and movies with ease and locally!
-
 ### 🌟 [Programs](https://github.com/Exonymos/Programs)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/Programs)** - All my programs including C, Python, C++, etc.
+
+### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - Track your shows and movies with ease and locally!
 
 ### 🌟 [utiliverse](https://github.com/Exonymos/utiliverse)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/utiliverse)** - UtiliVerse is your one-stop website that brings together a variety of easy-to-use tools for everyday tasks.

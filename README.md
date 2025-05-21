@@ -74,6 +74,11 @@
 
 ## 🏆 Featured Projects
 
+### 📽 [ShowTrackr](https://github.com/Exonymos/ShowTrackr-Web/)
+
+- 🎞 This application helps you manage your personal watchlist of movies and TV shows locally on your computer.
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** | 📰 **[Blog](#)** | 🎮 **[Live Demo Not Yet Available](#)**
+
 ### 🎰 [Gacha Level Calculator](https://nograsscalc.vercel.app/)
 
 - 🎮 Calculate experience needed and estimated time to reach a certain level in a gacha game.
@@ -83,11 +88,6 @@
 
 - 🍵 A fun web app that counts the total number of sips of tea taken by users globally.
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/projects/tree/77ccc56a62eac9a9fd4b89ba82459e6839acd4d3/Tea-Addicts)** | 📰 **[Blog](https://exonymos.me/projects/tea-addicts)** | 🎮 **[Live Demo](https://exonymos.github.io/projects/Tea-Addicts/)**
-
-### ❓ [Quiz Game](https://exonymos.github.io/projects/Quiz-Game/)
-
-- 🧠 Test your knowledge with a fun and interactive quiz game on various topics.
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/projects/tree/77ccc56a62eac9a9fd4b89ba82459e6839acd4d3/Quiz-Game)** | 📰 **[Blog](https://exonymos.me/projects/quiz-game)** | 🎮 **[Live Demo](https://exonymos.github.io/projects/Quiz-Game/)**
 
 ---
 

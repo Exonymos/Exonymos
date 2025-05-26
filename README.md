@@ -97,11 +97,11 @@
 ### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - Track your shows and movies with ease and locally!
 
+### 🌟 [ShowTrackr](https://github.com/Exonymos/ShowTrackr)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr)** - A simple python application for tracking Movies and TV shows that you have watched or plan to watch.
+
 ### 🌟 [Programs](https://github.com/Exonymos/Programs)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/Programs)** - All my programs including C, Python, C++, etc.
-
-### 🌟 [utiliverse](https://github.com/Exonymos/utiliverse)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/utiliverse)** - UtiliVerse is your one-stop website that brings together a variety of easy-to-use tools for everyday tasks.
 
 <!-- LATEST_PROJECTS:END -->
 

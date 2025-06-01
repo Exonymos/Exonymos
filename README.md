@@ -94,11 +94,11 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
-### 🌟 [exonymos.me](https://github.com/Exonymos/exonymos.me)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.me)** - A personal website where I share my projects and learnings.
-
 ### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - Track your shows and movies with ease and locally!
+
+### 🌟 [exonymos.me](https://github.com/Exonymos/exonymos.me)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.me)** - A personal website where I share my projects and learnings.
 
 ### 🌟 [ShowTrackr](https://github.com/Exonymos/ShowTrackr)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr)** - A simple python application for tracking Movies and TV shows that you have watched or plan to watch.

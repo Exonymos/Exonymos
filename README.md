@@ -94,14 +94,14 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
+### 🌟 [codecat](https://github.com/Exonymos/codecat)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/codecat)** - Codecat is a fast, Python CLI tool that scans your project and bundles all code, docs, and text files into a single, well-formatted Markdown file. Perfect for AI prompts, code reviews, or portable snapshots–highly configurable, multi-threaded, and easy to use!
+
 ### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - Track your shows and movies with ease and locally!
 
 ### 🌟 [exonymos.me](https://github.com/Exonymos/exonymos.me)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.me)** - A personal website where I share my projects and learnings.
-
-### 🌟 [ShowTrackr](https://github.com/Exonymos/ShowTrackr)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr)** - A simple python application for tracking Movies and TV shows that you have watched or plan to watch.
 
 <!-- LATEST_PROJECTS:END -->
 

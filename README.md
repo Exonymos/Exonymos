@@ -95,7 +95,7 @@
 
 <!-- LATEST_PROJECTS:START -->
 ### 🌟 [codecat](https://github.com/Exonymos/codecat)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/codecat)** - Codecat is a fast, Python CLI tool that scans your project and bundles all code, docs, and text files into a single, well-formatted Markdown file. Perfect for AI prompts, code reviews, or portable snapshots–highly configurable, multi-threaded, and easy to use!
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/codecat)** - 🐾 Codecat: A lightning-fast CLI tool that bundles your entire codebase into a single, clean Markdown file. Perfect for feeding context to LLMs, streamlining code reviews, and creating portable project archives.
 
 ### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - Track your shows and movies with ease and locally!

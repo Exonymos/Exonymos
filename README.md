@@ -94,14 +94,14 @@
 ## 🔥 Latest Projects
 
 <!-- LATEST_PROJECTS:START -->
+### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - Track your shows and movies with ease and locally!
+
 ### 🌟 [codecat](https://github.com/Exonymos/codecat)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/codecat)** - 🐾 Codecat: A lightning-fast CLI tool that bundles your entire codebase into a single, clean Markdown file. Perfect for feeding context to LLMs, streamlining code reviews, and creating portable project archives.
 
 ### 🌟 [exonymos.github.io](https://github.com/Exonymos/exonymos.github.io)
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.github.io)** - Personal minimal home site powered by Hugo and hosted on GitHub Pages.
-
-### 🌟 [projects](https://github.com/Exonymos/projects)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** - A collection of my various projects, ranging from web applications to games and utilities.
 
 <!-- LATEST_PROJECTS:END -->
 

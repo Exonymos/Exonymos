@@ -20,7 +20,7 @@
 - 💡 Constantly exploring new frameworks and technologies to enhance my skill set.
 - 🎯 Focused on contributing to open-source and launching innovative SaaS solutions.
 - 📚 Lifelong learner with a deep interest in tech trends and creative problem solving.
-- 🌍 Based in Gujarat, India.
+- 🌍 Based in New Jersey, USA.
 
 ---
 

@@ -2,23 +2,25 @@ name: Update README with Latest Repos
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs every 24 hours at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '14'
-
-      - name: Install Dependencies
-        run: npm install
+          node-version: '20'
 
       - name: Run Update Script
         env:
@@ -27,12 +29,9 @@ jobs:
         run: node update-readme.js
 
       - name: Commit Changes
-        env:
-          PAT: ${{ secrets.PAT }}
         run: |
           git config --global user.email "joybarot720@gmail.com"
           git config --global user.name "Exonymos"
           git add README.md
-          git commit -m "Update README with latest repos" || echo "No changes to commit"
-          git remote set-url origin https://$PAT@github.com/Exonymos/Exonymos.git
+          git commit -m "chore: update README with latest repos [skip ci]" || echo "No changes to commit"
           git push

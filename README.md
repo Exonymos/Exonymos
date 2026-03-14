@@ -103,14 +103,13 @@ Calculate XP needed and estimated grind time to reach a target level in a gacha 
 
 <!-- LATEST_PROJECTS:START -->
 ### 🌟 [exonymos.me](https://github.com/Exonymos/exonymos.me)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.me)** - A personal website where I share my projects and learnings.
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.me)** · TypeScript — A personal website where I share my projects and learnings.
 
 ### 🌟 [codecat](https://github.com/Exonymos/codecat)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/codecat)** - 🐾 Codecat: A lightning-fast CLI tool that bundles your entire codebase into a single, clean Markdown file. Perfect for feeding context to LLMs, streamlining code reviews, and creating portable project archives.
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/codecat)** · ⭐ 1 · Python — 🐾 Codecat: A lightning-fast CLI tool that bundles your entire codebase into a single, clean Markdown file. Perfect for feeding context to LLMs, streamlining code reviews, and creating portable project archives.
 
 ### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** - Track your shows and movies with ease and locally!
-
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** · ⭐ 4 · Python — Track your shows and movies with ease and locally!
 <!-- LATEST_PROJECTS:END -->
 
 ---

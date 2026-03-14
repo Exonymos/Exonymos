@@ -1,67 +1,84 @@
 const fs = require("fs");
-const https = require("https");
 
 const username = process.env.USERNAME;
-const excludedRepos = ["Exonymos"]; // Repos to exclude
+const token = process.env.GITHUB_TOKEN;
+const EXCLUDED_REPOS = new Set(["Exonymos"]);
+const MAX_PROJECTS = 3;
 
-const options = {
-  hostname: "api.github.com",
-  path: `/users/${username}/repos?sort=updated&per_page=10`,
-  method: "GET",
-  headers: {
-    "User-Agent": username,
-    Authorization: `token ${process.env.GITHUB_TOKEN}`,
-  },
-};
+async function fetchRepos() {
+  const res = await fetch(
+    `https://api.github.com/users/${username}/repos?sort=pushed&per_page=20`,
+    {
+      headers: {
+        "User-Agent": username,
+        Authorization: `Bearer ${token}`,
+        Accept: "application/vnd.github+json",
+      },
+    }
+  );
 
-function fetchRepos(callback) {
-  https
-    .get(options, (res) => {
-      let data = "";
-      res.on("data", (chunk) => {
-        data += chunk;
-      });
-      res.on("end", () => {
-        const repos = JSON.parse(data);
-        callback(repos);
-      });
-    })
-    .on("error", (e) => {
-      console.error(e);
-    });
+  if (!res.ok) {
+    throw new Error(`GitHub API error: ${res.status} ${res.statusText}`);
+  }
+
+  const data = await res.json();
+
+  if (!Array.isArray(data)) {
+    throw new Error(`Unexpected API response: ${JSON.stringify(data)}`);
+  }
+
+  return data;
 }
 
 function generateMarkdown(repos) {
-  let projectsMarkdown = "";
-  const filteredRepos = repos
-    .filter((repo) => !excludedRepos.includes(repo.name))
-    .slice(0, 3);
+  const filtered = repos
+    .filter((repo) => !repo.fork && !EXCLUDED_REPOS.has(repo.name))
+    .slice(0, MAX_PROJECTS);
 
-  filteredRepos.forEach((repo) => {
-    projectsMarkdown += `### 🌟 [${repo.name}](${repo.html_url})\n`;
-    projectsMarkdown += `- 🔗 **[GitHub Repo](${repo.html_url})** - ${
-      repo.description || "No description provided"
-    }\n\n`;
-  });
+  if (filtered.length === 0) {
+    return "_No recent projects found._\n\n";
+  }
 
-  return projectsMarkdown;
+  return filtered
+    .map((repo) => {
+      const stars =
+        repo.stargazers_count > 0
+          ? ` · ⭐ ${repo.stargazers_count}`
+          : "";
+      const lang = repo.language ? ` · ${repo.language}` : "";
+      const desc = repo.description || "No description provided.";
+      return (
+        `### 🌟 [${repo.name}](${repo.html_url})\n` +
+        `- 🔗 **[GitHub Repo](${repo.html_url})**${stars}${lang} — ${desc}\n`
+      );
+    })
+    .join("\n");
 }
 
 function updateReadme(markdown) {
   const readmePath = "./README.md";
-  let readmeContent = fs.readFileSync(readmePath, "utf8");
+  const content = fs.readFileSync(readmePath, "utf8");
 
-  const startMarker = "<!-- LATEST_PROJECTS:START -->";
-  const endMarker = "<!-- LATEST_PROJECTS:END -->";
-  const regex = new RegExp(`${startMarker}[\\s\\S]*${endMarker}`, "m");
+  const START = "<!-- LATEST_PROJECTS:START -->";
+  const END = "<!-- LATEST_PROJECTS:END -->";
+  const regex = new RegExp(`${START}[\\s\\S]*?${END}`, "m");
 
-  const newSection = `${startMarker}\n${markdown}${endMarker}`;
-  readmeContent = readmeContent.replace(regex, newSection);
+  if (!regex.test(content)) {
+    throw new Error("Could not find LATEST_PROJECTS markers in README.md");
+  }
 
-  fs.writeFileSync(readmePath, readmeContent, "utf8");
+  const updated = content.replace(regex, `${START}\n${markdown}${END}`);
+  fs.writeFileSync(readmePath, updated, "utf8");
+  console.log("README.md updated successfully.");
 }
 
-fetchRepos((repos) => {
-  const markdown = generateMarkdown(repos);
-  updateReadme(markdown);
-});
+(async () => {
+  try {
+    const repos = await fetchRepos();
+    const markdown = generateMarkdown(repos);
+    updateReadme(markdown);
+  } catch (err) {
+    console.error("Failed to update README:", err.message);
+    process.exit(1);
+  }
+})();

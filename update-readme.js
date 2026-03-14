@@ -29,7 +29,6 @@ async function fetchRepos() {
 
   return data;
 }
-
 function generateMarkdown(repos) {
   const filtered = repos
     .filter((repo) => !repo.fork && !EXCLUDED_REPOS.has(repo.name))
@@ -41,15 +40,20 @@ function generateMarkdown(repos) {
 
   return filtered
     .map((repo) => {
-      const stars =
-        repo.stargazers_count > 0
-          ? ` · ⭐ ${repo.stargazers_count}`
-          : "";
-      const lang = repo.language ? ` · ${repo.language}` : "";
+      const meta = [
+        repo.stargazers_count > 0 ? `⭐ ${repo.stargazers_count}` : null,
+        repo.language || null,
+      ]
+        .filter(Boolean)
+        .join(" · ");
+
       const desc = repo.description || "No description provided.";
+      const metaLine = meta ? `- ${meta}\n` : "";
+
       return (
         `### 🌟 [${repo.name}](${repo.html_url})\n` +
-        `- 🔗 **[GitHub Repo](${repo.html_url})**${stars}${lang} — ${desc}\n`
+        `${metaLine}` +
+        `- 🔗 **[GitHub Repo](${repo.html_url})** — ${desc}\n`
       );
     })
     .join("\n");

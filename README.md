@@ -102,17 +102,17 @@ Calculate XP needed and estimated grind time to reach a target level in a gacha 
 ## 🔥 Recently Active
 
 <!-- LATEST_PROJECTS:START -->
+### 🌟 [projects](https://github.com/Exonymos/projects)
+- ⭐ 1 · JavaScript
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** — A collection of my various projects, ranging from web applications to games and utilities.
+
+### 🌟 [utiliverse](https://github.com/Exonymos/utiliverse)
+- JavaScript
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/utiliverse)** — UtiliVerse is your one-stop website that brings together a variety of easy-to-use tools for everyday tasks.
+
 ### 🌟 [exonymos.me](https://github.com/Exonymos/exonymos.me)
 - TypeScript
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/exonymos.me)** — A personal website where I share my projects and learnings.
-
-### 🌟 [codecat](https://github.com/Exonymos/codecat)
-- ⭐ 1 · Python
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/codecat)** — 🐾 Codecat: A lightning-fast CLI tool that bundles your entire codebase into a single, clean Markdown file. Perfect for feeding context to LLMs, streamlining code reviews, and creating portable project archives.
-
-### 🌟 [ShowTrackr-Web](https://github.com/Exonymos/ShowTrackr-Web)
-- ⭐ 4 · Python
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)** — Track your shows and movies with ease and locally!
 <!-- LATEST_PROJECTS:END -->
 
 ---

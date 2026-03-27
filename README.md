@@ -89,9 +89,9 @@
 A CLI tool that bundles an entire codebase into a single clean Markdown file - useful for LLM context, code reviews, and portable archives. Built with Python, Typer, and Rich.  
 🔗 **[GitHub Repo](https://github.com/Exonymos/codecat)**
 
-### 📽 [ShowTrackr](https://github.com/Exonymos/ShowTrackr-Web)
+### 📽 [SeriesScape](https://github.com/Exonymos/SeriesScape)
 Manage your personal watchlist of movies and TV shows, stored locally on your machine.  
-🔗 **[GitHub Repo](https://github.com/Exonymos/ShowTrackr-Web)**
+🔗 **[GitHub Repo](https://github.com/Exonymos/SeriesScape)**
 
 ### 🎰 [Gacha Level Calculator](https://nograsscalc.vercel.app/)
 Calculate XP needed and estimated grind time to reach a target level in a gacha game.  

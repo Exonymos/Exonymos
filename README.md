@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🛠 Building CLI tools, web apps, and open-source utilities - from [Codecat](https://github.com/Exonymos/codecat) to [ShowTrackr](https://github.com/Exonymos/ShowTrackr-Web).
+- 🛠 Building CLI tools, web apps, and open-source utilities - from [Codecat](https://github.com/Exonymos/codecat) to [SeriesScape](https://github.com/Exonymos/SeriesScape).
 - 🐍 Primarily working in Python and TypeScript/JavaScript these days.
 - 🎯 Interested in developer tooling, clean CLI UX, and eventually SaaS projects.
 - 🌍 Based in New Jersey, USA.

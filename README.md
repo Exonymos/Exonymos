@@ -102,13 +102,13 @@ Calculate XP needed and estimated grind time to reach a target level in a gacha 
 ## 🔥 Recently Active
 
 <!-- LATEST_PROJECTS:START -->
-### 🌟 [projects](https://github.com/Exonymos/projects)
-- ⭐ 1 · JavaScript
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** — A collection of my various projects, ranging from web applications to games and utilities.
-
 ### 🌟 [SeriesScape](https://github.com/Exonymos/SeriesScape)
 - ⭐ 4 · Python
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/SeriesScape)** — Track your shows and movies with ease and locally!
+
+### 🌟 [projects](https://github.com/Exonymos/projects)
+- ⭐ 1 · JavaScript
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** — A collection of my various projects, ranging from web applications to games and utilities.
 
 ### 🌟 [Programs](https://github.com/Exonymos/Programs)
 - ⭐ 2 · HTML

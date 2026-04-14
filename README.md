@@ -106,13 +106,13 @@ Calculate XP needed and estimated grind time to reach a target level in a gacha 
 - ⭐ 4 · Python
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/SeriesScape)** — Track your shows and movies with ease and locally!
 
+### 🌟 [codecat](https://github.com/Exonymos/codecat)
+- ⭐ 1 · Python
+- 🔗 **[GitHub Repo](https://github.com/Exonymos/codecat)** — 🐾 Codecat: A lightning-fast CLI tool that bundles your entire codebase into a single, clean Markdown file. Perfect for feeding context to LLMs, streamlining code reviews, and creating portable project archives.
+
 ### 🌟 [projects](https://github.com/Exonymos/projects)
 - ⭐ 1 · JavaScript
 - 🔗 **[GitHub Repo](https://github.com/Exonymos/projects)** — A collection of my various projects, ranging from web applications to games and utilities.
-
-### 🌟 [Programs](https://github.com/Exonymos/Programs)
-- ⭐ 2 · HTML
-- 🔗 **[GitHub Repo](https://github.com/Exonymos/Programs)** — All my programs including C, Python, C++, etc.
 <!-- LATEST_PROJECTS:END -->
 
 ---
